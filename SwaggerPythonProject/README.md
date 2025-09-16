@@ -16,8 +16,6 @@ python app.py
 
 Тестовые данные для входа (для обоих API):
 - admin / admin123
-- testuser / testpass 
-- demo / demo123
 
 Узнать структуру приложения:
     cd C:\Users\shute\source\AutoEco\Test. AutoЕco
